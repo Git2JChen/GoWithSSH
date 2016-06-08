@@ -5,7 +5,6 @@
 // 2. run "mocha" at PowerShell command prompt
 /* ===================================== */
 
-// dependencies
 var expect = require("chai").expect;
 var tags = require("../lib/tags.js");
 
