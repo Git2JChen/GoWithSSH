@@ -1,0 +1,6 @@
+node_modules
+target
+checkstyle.xml
+report.xml
+.env
+.idea
